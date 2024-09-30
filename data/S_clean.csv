@@ -1,0 +1,267 @@
+"Id","Name","Birth","Party","District","Race","White","Hispanic","Black","Asian","Female","Function","Beginning term","End of term","Term","End Type","Exit","Next occupation"
+"137","Cox, Dave","02/20/1938","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2010-07-13,2008,"Early","Die",NA
+"412","Oropeza, Jenny","09/27/1957","D",28,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2006-12-04,2010-10-20,2006,"Early","Die",NA
+"458","Runner, Sharon","05/17/1954","R",21,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2015-03-19,2016-07-14,2012,"Early","Die",NA
+"206","Gaines, Ted","04/25/1958","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2019-01-07,2016,"Early","Executive campaign","State Board"
+"317","Lara, Ricardo","11/05/1974","D",33,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2016-12-05,2019-01-07,2016,"Early","Executive campaign","Insurance Commissioner"
+"347","Maldonado, Abel","08/21/1967","R",15,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2008-12-01,2010-04-27,2008,"Early","Executive campaign","Lieutenant Governor candidate"
+"457","Runner, George","03/25/1952","R",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2010-12-21,2008,"Early","Executive campaign","State Board"
+"583","Stone, Jeff","01/30/1956","R",28,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,2019-11-01,2018,"Early","Executive campaign","US government"
+"097","Campbell, John","07/19/1955","R",35,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2005-12-06,2004,"Early","Legislative campaign","USR candidate"
+"153","DeSaulnier, Mark","03/31/1952","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2015-01-02,2012,"Early","Legislative campaign","USR candidate"
+"302","Knight, Steve","12/17/1966","R",21,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2015-01-03,2012,"Early","Legislative campaign","USR candidate"
+"312","La Malfa, Doug","07/02/1960","R",4,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2010-12-06,2012-08-31,2010,"Early","Legislative campaign","USR candidate"
+"571","Lieu, Ted W.","03/29/1969","D",28,"A",FALSE,FALSE,FALSE,TRUE,FALSE,NA,2011-02-18,2014-11-30,2010,"Early","Legislative campaign","USR candidate"
+"368","McLeod, Gloria Negrete","09/06/1941","D",32,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2010-12-06,2013-01-02,2010,"Early","Legislative campaign","USR candidate"
+"517","Vargas, Juan","03/07/1961","D",40,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2013-01-02,2010,"Early","Legislative campaign","USR candidate"
+"527","Walters, Mimi","05/14/1962","R",37,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2012-12-03,2015-01-03,2012,"Early","Legislative campaign","USR candidate"
+"376","Mitchell, Holly","09/07/1964","D",30,"B",FALSE,FALSE,TRUE,FALSE,TRUE,NA,2018-12-03,2012-11-30,2018,"Early","Local campaign","BS candidate"
+"433","Price, Curren","12/16/1950","D",26,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2010-12-06,2013-07-01,2010,"Early","Local campaign","CC candidate"
+"444","Ridley-Thomas, Mark","11/06/1954","D",26,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2006-12-04,2008-11-30,2006,"Early","Local campaign","BS candidate"
+"458","Runner, Sharon","05/17/1954","R",17,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2011-02-18,2012-12-03,2010,"Early",NA,NA
+"056","Block, Martin","06/28/1950","D",39,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Not seek reelection",NA
+"176","Evans, Noreen","04/22/1955","D",2,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2010-12-06,2014-11-30,2010,"On time","Not seek reelection","Lawyer"
+"207","Galgiani, Cathleen","01/04/1964","D",5,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2016-12-05,2020-11-30,2016,"On time","Not seek reelection","State Board"
+"243","Harman, Tom","05/30/1941","R",35,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Not seek reelection","Attorney General candidate"
+"373","Migden, Carole","08/14/1948","D",3,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2004-12-06,2008-11-30,2004,"On time","Not seek reelection","State Board"
+"406","O'Connell, Jack","10/08/1951","D",18,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Not seek reelection","State Superintendent of Public Instruction"
+"410","Oller, Thomas Rico","07/16/1958","R",1,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Not seek reelection","USR candidate"
+"494","Strickland, Tony","02/17/1970","R",19,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Not seek reelection","USR candidate"
+"538","Wiggins, Pat","04/19/1940","D",2,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2006-12-04,2010-11-30,2006,"On time","Not seek reelection",NA
+"121","Cogdill, Dave","12/31/1950","R",14,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2006-12-04,2010-11-30,2006,"Early","Other campaign","Assessor"
+"575","Newman, Josh","10/17/1964","D",29,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,NA,2016,"Early","Recalled",NA
+"001","Aanestad, Samuel","07/16/1946","R",4,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"003","Ackerman, Dick","12/05/1942","R",33,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"010","Alarcon, Richard","11/24/1953","D",20,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"556","Allen, Ben","03/13/1978","D",26,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"017","Alpert, Dede","10/06/1945","D",39,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"018","Alquist, Elaine","08/21/1944","D",13,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"021","Anderson, Joel","02/11/1960","R",36,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Reelection","Reelected"
+"027","Ashburn, Roy","03/21/1954","R",18,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"028","Atkins, Toni","08/01/1962","D",39,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"037","Bates, Patricia","12/15/1939","R",36,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"039","Battin, Jim","07/28/1962","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"558","Beall, Jim, Jr.","12/07/1951","D",15,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"053","Berryhill, Tom","08/27/1953","R",14,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Reelection","Reelected"
+"069","Bowen, Debra","10/27/1955","D",28,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"071","Bradford, Steven","01/12/1960","D",35,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"083","Brulte, James L.","04/13/1956","R",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"086","Burton, John L.","12/15/1932","D",3,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"President Pro Tempore",1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"094","Calderon, Ronald S.","08/12/1957","D",30,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"561","Cannella, Anthony","03/22/1969","R",12,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Reelection","Reelected"
+"106","Cedillo, Gil","03/25/1954","D",22,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"111","Chang, Ling-Ling","07/24/1976","R",29,"A",FALSE,FALSE,FALSE,TRUE,TRUE,NA,2018-12-01,2020-11-30,2018,"On time","Reelection","Reelected"
+"116","Chesbro, Wesley","08/20/1951","D",2,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"132","Corbett, Ellen","12/31/1954","D",10,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"133","Correa, Lou","01/24/1958","D",34,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"135","Costa, Jim","04/13/1952","D",16,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1994-12-05,1998-11-30,1994,"On time","Reelection","Reelected"
+"137","Cox, Dave","02/20/1938","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"142","Dahle, Brian","09/20/1965","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2019-12-06,2020-11-30,2016,"On time","Reelection","Reelected"
+"151","De Leon, Kevin","12/10/1966","D",22,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Reelection","Reelected"
+"563","Denham, Jeff","07/29/1967","R",12,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"153","DeSaulnier, Mark","03/31/1952","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"159","Dodd, Bill","06/10/1956","D",3,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"161","Ducheny, Denise Moreno","03/21/1952","D",40,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"564","Dunn, Joseph L.","09/05/1958","D",34,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"166","Dutton, Robert D.","10/13/1950","R",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"172","Emmerson, Bill","10/28/1945","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2010-06-09,2012-11-30,2010,"On time","Reelection","Reelected"
+"175","Escutia, Martha M.","01/16/1957","D",30,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"181","Figueroa, Liz","02/09/1951","D",10,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"187","Florez, Dean","04/05/1963","D",16,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"202","Fuller, Jean","04/16/1950","R",18,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2010-12-06,2014-11-30,2010,"On time","Reelection","Reelected"
+"206","Gaines, Ted","04/25/1958","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2011-01-06,2012-11-30,2008,"On time","Reelection","Reelected"
+"206","Gaines, Ted","04/25/1958","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"207","Galgiani, Cathleen","01/04/1964","D",5,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"566","Glazer, Steve","08/10/1957","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2015-05-28,2016-11-30,2012,"On time","Reelection","Reelected"
+"566","Glazer, Steve","08/10/1957","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"567","Gonzalez, Lena","01/26/1981","D",33,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2019-06-12,2020-11-30,2016,"On time","Reelection","Reelected"
+"239","Hancock, Loni","04/10/1940","D",9,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"243","Harman, Tom","05/30/1941","R",35,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-06-13,2008-11-30,2004,"On time","Reelection","Reelected"
+"253","Haynes, Ray","08/26/1954","R",36,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1994-12-05,1998-11-30,1994,"On time","Reelection","Reelected"
+"568","Hernandez, Edward P. (Ed)","10/17/1957","D",24,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Reelection","Reelected"
+"257","Hertzberg, Bob","11/19/1954","D",18,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"259","Hill, Jerry","04/18/1947","D",13,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"262","Hollingsworth, Dennis","01/12/1967","R",36,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"271","Hueso, Ben","09/02/1969","D",40,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2013-03-21,2014-11-30,2010,"On time","Reelection","Reelected"
+"271","Hueso, Ben","09/02/1969","D",40,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"272","Huff, Bob","09/09/1953","R",29,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"281","Jackson, Hannah-Beth","05/19/1950","D",19,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"283","Johnson, Ross","09/28/1939","R",35,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"292","Karnette, Betty","09/13/1931","D",27,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"296","Kehoe, Christine","10/03/1950","D",39,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"303","Knight, Wm. Pete","11/18/1929","R",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"309","Kuehl, Sheila James","02/09/1941","D",23,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"317","Lara, Ricardo","11/05/1974","D",33,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"323","Leno, Mark","09/24/1951","D",3,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"570","Leyva, Connie M.","02/19/1967","D",20,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"334","Liu, Carol","09/12/1941","D",21,"A",FALSE,FALSE,FALSE,TRUE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"341","Lowenthal, Alan","03/08/1941","D",27,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"344","Machado, Mike","03/12/1948","D",5,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"347","Maldonado, Abel","08/21/1967","R",15,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"349","Margett, Bob","05/08/1929","R",29,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"366","McClintock, Tom","07/10/1956","R",19,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"572","McGuire, Mike","07/21/1979","D",2,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"368","McLeod, Gloria Negrete","09/06/1941","D",32,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"369","McPherson, Bruce","01/07/1944","R",15,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"376","Mitchell, Holly","09/07/1964","D",30,"B",FALSE,FALSE,TRUE,FALSE,TRUE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"379","Monning, William W.","04/02/1951","D",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"573","Monteith, Dick","02/07/1932","R",12,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1994-12-05,1998-11-30,1994,"On time","Reelection","Reelected"
+"574","Moorlach, John","12/21/1955","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"574","Moorlach, John","12/21/1955","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2015-03-22,2016-11-30,2012,"On time","Reelection","Reelected"
+"382","Morrel, Mike","10/14/1952","R",23,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-04-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"384","Morrow, Bill","04/19/1954","R",38,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"390","Murray, Kevin","03/12/1960","D",26,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"401","Nguyen, Janet","05/01/1976","R",34,"A",FALSE,FALSE,FALSE,TRUE,TRUE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Defeated"
+"403","Nielsen, Jim","08/31/1944","R",4,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2013-01-10,2014-11-30,2010,"On time","Reelection","Reelected"
+"403","Nielsen, Jim","08/31/1944","R",4,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"413","Ortiz, Deborah V.","03/19/1957","D",6,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"577","Padilla, Alex","03/22/1973","D",20,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"417","Pan, Richard","10/28/1965","D",6,"A",FALSE,FALSE,FALSE,TRUE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"421","Pavley, Fran","11/11/1948","D",23,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"422","Peace, Stephen","03/30/1953","D",40,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1994-12-05,1998-11-30,1994,"On time","Reelection","Reelected"
+"423","Perata, Don","04/30/1945","D",9,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2000-11-30,1996,"On time","Reelection","Reelected"
+"423","Perata, Don","04/30/1945","D",9,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"430","Poochigian, Charles","05/31/1949","R",14,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"431","Portantino, Anthony J.","01/29/1961","D",25,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"433","Price, Curren","12/16/1950","D",26,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2009-06-03,2010-11-30,2006,"On time","Reelection","Reelected"
+"452","Romero, Gloria","07/10/1955","D",24,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2001-12-01,2002-11-30,1998,"On time","Reelection","Reelected"
+"452","Romero, Gloria","07/10/1955","D",24,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Reelection","Reelected"
+"578","Roth, Richard","11/06/1950","D",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Reelection","Reelected"
+"578","Roth, Richard","11/06/1950","D",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"457","Runner, George","03/25/1952","R",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"468","Scott, Jack","08/24/1933","D",21,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"581","Scott, Wilk","03/16/1959","R",21,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"475","Sher, Byron","02/07/1928","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1996-03-28,2000-11-30,1996,"On time","Reelection","Reelected"
+"477","Simitian, Joseph","02/01/1953","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Reelection","Reelected"
+"478","Skinner, Nancy","08/12/1954","D",9,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"485","Soto, Nell","06/18/1926","D",32,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2000-01-01,2002-11-30,1998,"On time","Reelection","Reelected"
+"486","Speier, Jackie","05/14/1950","D",8,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,1998-12-07,2002-11-30,1998,"On time","Reelection","Reelected"
+"489","Steinberg, Darrell","10/15/1959","D",6,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"582","Stern, Henry","04/12/1982","D",27,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"583","Stone, Jeff","01/30/1956","R",28,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"508","Torlakson, Tom","07/19/1949","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"518","Vasconcellos, John","05/11/1932","D",13,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,1996-12-02,2000-11-30,1996,"On time","Reelection","Reelected"
+"584","Vidak, Andy","11/13/1965","R",14,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-02-22,2014,"On time","Reelection","Defeated"
+"523","Vincent, Edward","06/23/1934","D",25,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Reelection","Reelected"
+"527","Walters, Mimi","05/14/1962","R",33,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"537","Wieckowski, Bob","02/18/1955","D",10,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Reelection","Reelected"
+"585","Wiener, Scott","05/11/1970","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time","Reelection","Reelected"
+"542","Wolk, Lois","05/12/1946","D",5,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"586","Wright, Rodrick","07/03/1952","D",25,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Reelection","Reelected"
+"549","Wyland, Mark","10/27/1946","R",38,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"552","Yee, Leland Y.","11/20/1948","D",8,"A",FALSE,FALSE,FALSE,TRUE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Reelection","Reelected"
+"045","Benoit, John J.","12/27/1951","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2009-11-30,2008,"Early","Resignation","BS candidate"
+"172","Emmerson, Bill","10/28/1945","R",23,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2013-12-01,2012,"Early","Resignation",NA
+"372","Mendoza, Tony","04/22/1971","D",32,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-02-22,2014,"Early","Resignation","Sentenced (sexual harassment)"
+"579","Rubio, Michael J.","08/24/1977","D",16,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2013-02-22,2010,"Early","Resignation",NA
+"586","Wright, Rodrick","07/03/1952","D",35,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2012-12-03,2014-09-22,2012,"Early","Resignation","Sentenced"
+"001","Aanestad, Samuel","07/16/1946","R",4,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out",NA
+"003","Ackerman, Dick","12/05/1942","R",33,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2004-12-06,2008-11-30,2004,"On time","Termed out",NA
+"010","Alarcon, Richard","11/24/1953","D",20,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","State Assembly candidate"
+"017","Alpert, Dede","10/06/1945","D",39,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out","State Board"
+"018","Alquist, Elaine","08/21/1944","D",13,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Termed out",NA
+"021","Anderson, Joel","02/11/1960","R",38,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Termed out","BS candidate"
+"027","Ashburn, Roy","03/21/1954","R",18,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out",NA
+"039","Battin, Jim","07/28/1962","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out",NA
+"053","Berryhill, Tom","08/27/1953","R",8,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Termed out",NA
+"069","Bowen, Debra","10/27/1955","D",28,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","Secretary of State"
+"083","Brulte, James L.","04/13/1956","R",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2000-12-04,2004-11-30,2000,"On time","Termed out",NA
+"086","Burton, John L.","12/15/1932","D",3,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"President Pro Tempore",2000-12-04,2004-11-30,2000,"On time","Termed out","Foundation"
+"094","Calderon, Ronald S.","08/12/1957","D",30,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Termed out","Sentenced"
+"561","Cannella, Anthony","03/22/1969","R",12,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Termed out",NA
+"106","Cedillo, Gil","03/25/1954","D",22,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out","State Assembly candidate"
+"116","Chesbro, Wesley","08/20/1951","D",2,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out",NA
+"132","Corbett, Ellen","12/31/1954","D",10,"W",TRUE,FALSE,FALSE,FALSE,TRUE,"Majority Leader",2010-12-06,2014-11-30,2010,"On time","Termed out","State Board"
+"133","Correa, Lou","01/24/1958","D",34,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Termed out","USR candidate"
+"135","Costa, Jim","04/13/1952","D",16,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Termed out","USR candidate"
+"151","De Leon, Kevin","12/10/1966","D",24,"H",FALSE,TRUE,FALSE,FALSE,FALSE,"President Pro Tempore",2014-12-01,2018-11-30,2014,"On time","Termed out",NA
+"563","Denham, Jeff","07/29/1967","R",12,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out","USR candidate"
+"161","Ducheny, Denise Moreno","03/21/1952","D",40,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out","State Board"
+"564","Dunn, Joseph L.","09/05/1958","D",34,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","Foundation"
+"166","Dutton, Robert D.","10/13/1950","R",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2008-12-01,2012-11-30,2008,"On time","Termed out",NA
+"175","Escutia, Martha M.","01/16/1957","D",30,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","University board"
+"181","Figueroa, Liz","02/09/1951","D",10,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","Lieutenant Governor candidate"
+"187","Florez, Dean","04/05/1963","D",16,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out",NA
+"202","Fuller, Jean","04/16/1950","R",16,"W",TRUE,FALSE,FALSE,FALSE,TRUE,"Minority Leader",2014-12-01,2018-11-30,2014,"On time","Termed out",NA
+"239","Hancock, Loni","04/10/1940","D",9,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2012-12-03,2016-11-30,2012,"On time","Termed out",NA
+"253","Haynes, Ray","08/26/1954","R",36,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Termed out","USR candidate"
+"568","Hernandez, Edward P. (Ed)","10/17/1957","D",22,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2014-12-01,2018-11-30,2014,"On time","Termed out",NA
+"262","Hollingsworth, Dennis","01/12/1967","R",36,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2006-12-04,2010-11-30,2006,"On time","Termed out",NA
+"272","Huff, Bob","09/09/1953","R",29,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Republican Leader",2012-12-03,2016-11-30,2012,"On time","Termed out",NA
+"283","Johnson, Ross","09/28/1939","R",35,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out",NA
+"292","Karnette, Betty","09/13/1931","D",27,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out",NA
+"296","Kehoe, Christine","10/03/1950","D",39,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2008-12-01,2012-11-30,2008,"On time","Termed out","Business"
+"303","Knight, Wm. Pete","11/18/1929","R",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out",NA
+"309","Kuehl, Sheila James","02/09/1941","D",23,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out",NA
+"323","Leno, Mark","09/24/1951","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2012-12-03,2016-11-30,2012,"On time","Termed out",NA
+"334","Liu, Carol","09/12/1941","D",25,"A",FALSE,FALSE,FALSE,TRUE,TRUE,NA,2012-12-03,2016-11-30,2012,"On time","Termed out",NA
+"341","Lowenthal, Alan","03/08/1941","D",27,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Termed out","USR candidate"
+"344","Machado, Mike","03/12/1948","D",5,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out","State Board"
+"349","Margett, Bob","05/08/1929","R",29,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out",NA
+"366","McClintock, Tom","07/10/1956","R",19,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out","USR candidate"
+"369","McPherson, Bruce","01/07/1944","R",15,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out","Secretary of State"
+"573","Monteith, Dick","02/07/1932","R",12,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Termed out",NA
+"384","Morrow, Bill","04/19/1954","R",38,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out",NA
+"390","Murray, Kevin","03/12/1960","D",26,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out",NA
+"413","Ortiz, Deborah V.","03/19/1957","D",6,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out",NA
+"577","Padilla, Alex","03/22/1973","D",20,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Termed out","Secretary of State"
+"421","Pavley, Fran","11/11/1948","D",27,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2012-12-03,2016-11-30,2012,"On time","Termed out",NA
+"422","Peace, Stephen","03/30/1953","D",40,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,1998-12-07,2002-11-30,1998,"On time","Termed out","California Department of Finance"
+"423","Perata, Don","04/30/1945","D",9,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"President Pro Tempore",2004-12-06,2008-11-30,2004,"On time","Termed out","M candidate"
+"430","Poochigian, Charles","05/31/1949","R",14,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","Attorney General candidate"
+"452","Romero, Gloria","07/10/1955","D",24,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2006-12-04,2010-11-30,2006,"On time","Termed out",NA
+"468","Scott, Jack","08/24/1933","D",21,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out","Scholar"
+"475","Sher, Byron","02/07/1928","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out",NA
+"477","Simitian, Joseph","02/01/1953","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2008-12-01,2012-11-30,2008,"On time","Termed out","BS candidate"
+"485","Soto, Nell","06/18/1926","D",32,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out",NA
+"486","Speier, Jackie","05/14/1950","D",8,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2002-12-02,2006-11-30,2002,"On time","Termed out","USR candidate"
+"489","Steinberg, Darrell","10/15/1959","D",6,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"President Pro Tempore",2010-12-06,2014-11-30,2010,"On time","Termed out","M candidate"
+"508","Torlakson, Tom","07/19/1949","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out",NA
+"518","Vasconcellos, John","05/11/1932","D",13,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2000-12-04,2004-11-30,2000,"On time","Termed out",NA
+"523","Vincent, Edward","06/23/1934","D",25,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2004-12-06,2008-11-30,2004,"On time","Termed out",NA
+"542","Wolk, Lois","05/12/1946","D",3,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2012-12-03,2016-11-30,2012,"On time","Termed out",NA
+"549","Wyland, Mark","10/27/1946","R",38,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Termed out","Governemental Committee"
+"552","Yee, Leland Y.","11/20/1948","D",8,"A",FALSE,FALSE,FALSE,TRUE,FALSE,NA,2010-12-06,2014-11-30,2010,"On time","Termed out","Sentenced"
+"558","Beall, Jim, Jr.","12/07/1951","D",15,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time",NA,NA
+"259","Hill, Jerry","04/18/1947","D",13,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time",NA,NA
+"281","Jackson, Hannah-Beth","05/19/1950","D",19,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2016-12-05,2020-11-30,2016,"On time",NA,NA
+"379","Monning, William W.","04/02/1951","D",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2016-12-05,2020-11-30,2016,"On time",NA,NA
+"382","Morrel, Mike","10/14/1952","R",23,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2016-12-05,2020-11-30,2016,"On time",NA,NA
+"556","Allen, Ben","03/13/1978","D",26,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"557","Archuleta, Bob","06/01/1945","D",32,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"028","Atkins, Toni","08/01/1962","D",39,"W",TRUE,FALSE,FALSE,FALSE,TRUE,"President Pro Tempore",2020-12-07,NA,2020,NA,NA,NA
+"037","Bates, Patricia","12/15/1939","R",36,"W",TRUE,FALSE,FALSE,FALSE,TRUE,"Minority Leader",2018-12-03,NA,2018,NA,NA,NA
+"559","Becker, Josh",NA,"D",13,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"560","Borgeas, Andreas",NA,"R",8,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"071","Bradford, Steven","01/12/1960","D",35,"B",FALSE,FALSE,TRUE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"089","Caballero, Anna","04/18/1955","D",12,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2018-12-03,NA,2018,NA,NA,NA
+"562","Cortese, Dave","06/03/1956","D",15,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"142","Dahle, Brian","09/20/1965","R",1,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"159","Dodd, Bill","06/10/1956","D",3,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"565","Durazo, Maria Elena","03/20/1953","D",24,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2018-12-03,NA,2018,NA,NA,NA
+"566","Glazer, Steve","08/10/1957","D",7,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"567","Gonzalez, Lena","01/26/1981","D",33,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2020-12-07,NA,2020,NA,NA,NA
+"233","Grove, Shannon","03/18/1965","R",16,"W",TRUE,FALSE,FALSE,FALSE,TRUE,"Minority Leader",2018-12-03,NA,2018,NA,NA,NA
+"257","Hertzberg, Bob","11/19/1954","D",18,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2018-12-03,NA,2018,NA,NA,NA
+"271","Hueso, Ben","09/02/1969","D",40,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"569","Hurtado, Melissa","03/06/1988","D",14,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2018-12-03,NA,2018,NA,NA,NA
+"315","Laird, John","03/29/1950","D",17,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"570","Leyva, Connie M.","02/19/1967","D",20,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2018-12-03,NA,2018,NA,NA,NA
+"332","Limon, Monique","10/30/1979","D",19,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2020-12-07,NA,2020,NA,NA,NA
+"572","McGuire, Mike","07/21/1979","D",2,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"574","Moorlach, John","12/21/1955","R",37,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"575","Newman, Josh","10/17/1964","D",29,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"403","Nielsen, Jim","08/31/1944","R",4,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"576","Ochoa Bogh, Rosilicie","6/30/1972","R",23,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2020-12-07,NA,2020,NA,NA,NA
+"417","Pan, Richard","10/28/1965","D",6,"A",FALSE,FALSE,FALSE,TRUE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"431","Portantino, Anthony J.","01/29/1961","D",25,"H",FALSE,TRUE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"578","Roth, Richard","11/06/1950","D",31,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"580","Rubio, Susan","12/25/1970","D",22,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2018-12-03,NA,2018,NA,NA,NA
+"581","Scott, Wilk","03/16/1959","R",21,"W",TRUE,FALSE,FALSE,FALSE,FALSE,"Minority Leader",2020-12-07,NA,2020,NA,NA,NA
+"478","Skinner, Nancy","08/12/1954","D",9,"W",TRUE,FALSE,FALSE,FALSE,TRUE,NA,2020-12-07,NA,2020,NA,NA,NA
+"582","Stern, Henry","04/12/1982","D",27,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
+"501","Talamantes Eggman, Susan","03/03/1961","D",5,"H",FALSE,TRUE,FALSE,FALSE,TRUE,NA,2020-12-07,NA,2020,NA,NA,NA
+"515","Umberg, Thomas","09/25/1955","D",34,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"525","W. Jones, Brian","08/09/1968","R",38,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"537","Wieckowski, Bob","02/18/1955","D",10,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2018-12-03,NA,2018,NA,NA,NA
+"585","Wiener, Scott","05/11/1970","D",11,"W",TRUE,FALSE,FALSE,FALSE,FALSE,NA,2020-12-07,NA,2020,NA,NA,NA
