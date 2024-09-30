@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_occurrences" for="node" attr.name="occurrences" attr.type="double"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">USR</data>
+      <data key="v_occurrences">252</data>
+      <data key="v_color">#E41A1C</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">StA</data>
+      <data key="v_occurrences">3383</data>
+      <data key="v_color">#4DAF4A</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">StS</data>
+      <data key="v_occurrences">799</data>
+      <data key="v_color">#984EA3</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">M</data>
+      <data key="v_occurrences">113</data>
+      <data key="v_color">#FF7F00</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">CC</data>
+      <data key="v_occurrences">413</data>
+      <data key="v_color">#A65628</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">BS</data>
+      <data key="v_occurrences">357</data>
+      <data key="v_color">#F781BF</data>
+    </node>
+    <edge source="n0" target="n5">
+      <data key="e_weight">1</data>
+      <data key="e_color">#EA3D53FF</data>
+    </edge>
+    <edge source="n1" target="n0">
+      <data key="e_weight">11</data>
+      <data key="e_color">#807C3AFF</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">84</data>
+      <data key="e_color">#668E68FF</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">3</data>
+      <data key="e_color">#899E30FF</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">4</data>
+      <data key="e_color">#6B903EFF</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">9</data>
+      <data key="e_color">#869F71FF</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_weight">9</data>
+      <data key="e_color">#B13C75FF</data>
+    </edge>
+    <edge source="n2" target="n1">
+      <data key="e_weight">7</data>
+      <data key="e_color">#7E6E84FF</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">2</data>
+      <data key="e_color">#9C5079FF</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">3</data>
+      <data key="e_color">#B85FACFF</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_weight">9</data>
+      <data key="e_color">#C28F19FF</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">4</data>
+      <data key="e_color">#E0710DFF</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">3</data>
+      <data key="e_color">#FC7F40FF</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_weight">1</data>
+      <data key="e_color">#BB4123FF</data>
+    </edge>
+    <edge source="n4" target="n1">
+      <data key="e_weight">23</data>
+      <data key="e_color">#877433FF</data>
+    </edge>
+    <edge source="n4" target="n2">
+      <data key="e_weight">3</data>
+      <data key="e_color">#A15351FF</data>
+    </edge>
+    <edge source="n4" target="n3">
+      <data key="e_weight">15</data>
+      <data key="e_color">#C4631AFF</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_weight">2</data>
+      <data key="e_color">#C1645BFF</data>
+    </edge>
+    <edge source="n5" target="n1">
+      <data key="e_weight">18</data>
+      <data key="e_color">#BD9097FF</data>
+    </edge>
+    <edge source="n5" target="n2">
+      <data key="e_weight">3</data>
+      <data key="e_color">#D66FB5FF</data>
+    </edge>
+    <edge source="n5" target="n4">
+      <data key="e_weight">1</data>
+      <data key="e_color">#DB728BFF</data>
+    </edge>
+  </graph>
+</graphml>

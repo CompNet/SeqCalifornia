@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_occurrences" for="node" attr.name="occurrences" attr.type="double"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">USR</data>
+      <data key="v_occurrences">57</data>
+      <data key="v_color">#E41A1C</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">StA</data>
+      <data key="v_occurrences">1102</data>
+      <data key="v_color">#4DAF4A</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">StS</data>
+      <data key="v_occurrences">88</data>
+      <data key="v_color">#984EA3</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">M</data>
+      <data key="v_occurrences">2</data>
+      <data key="v_color">#FF7F00</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">CC</data>
+      <data key="v_occurrences">6</data>
+      <data key="v_color">#A65628</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">BS</data>
+      <data key="v_occurrences">0</data>
+      <data key="v_color">#F781BF</data>
+    </node>
+    <edge source="n1" target="n0">
+      <data key="e_weight">2</data>
+      <data key="e_color">#807C3AFF</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">9</data>
+      <data key="e_color">#668E68FF</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_weight">1</data>
+      <data key="e_color">#B13C75FF</data>
+    </edge>
+    <edge source="n2" target="n1">
+      <data key="e_weight">2</data>
+      <data key="e_color">#7E6E84FF</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">1</data>
+      <data key="e_color">#E0710DFF</data>
+    </edge>
+    <edge source="n4" target="n3">
+      <data key="e_weight">1</data>
+      <data key="e_color">#C4631AFF</data>
+    </edge>
+  </graph>
+</graphml>
