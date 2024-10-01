@@ -47,7 +47,7 @@ In order to replicate the experiments from the article, perform the following op
 * [`igraph`](http://igraph.org/r/) package: used to build and handle graphs.
 * [`readr`](https://cran.r-project.org/web/packages/readr/index.html) package: read rectangular text data.
 * [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html) package: data manipulation.
-* [`TraMineR`]([https://cran.r-project.org/web/packages/dplyr/index.html](http://traminer.unige.ch/)) package: sequence analysis.
+* [`TraMineR`](http://traminer.unige.ch/) package: sequence analysis.
 * [`GDAtools`](https://cran.r-project.org/web/packages/GDAtools/index.html) package: geometric data analysis.
 
 
