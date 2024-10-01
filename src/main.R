@@ -22,7 +22,8 @@ library("igraph")
 # chemin du dossier contenant les donnees et les scripts
 #folder <- "D:/Users/Vincent/eclipse/workspaces/Extraction/SeqCalifornia"
 #folder <- "C:/Users/Vincent/eclipse/workspaces/Networks/SeqCalifornia"
-folder <- "U:/Thèse/AS et BREF/Californie/Version 7"
+#folder <- "U:/ThÃ¨se/AS et BREF/Californie/Version 7"
+folder <- "."
 
 # autres dossiers
 src.folder <- file.path(folder,"src")

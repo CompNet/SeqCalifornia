@@ -7,7 +7,7 @@
 #######################################################
 
 
-#D'abord, creert l'objet des sequences d'evenements : 
+#D'abord, creer l'objet des sequences d'evenements : 
 #Je le fais a partir de l'objet contenant mes sequences d'etat : 
 se <- seqecreate(tab.all,
                  id = "Id",
