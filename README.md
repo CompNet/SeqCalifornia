@@ -52,5 +52,5 @@ In order to replicate the experiments from the article, perform the following op
 
 
 # References
-* **[F'23]** Noémie Févrat. "The Effects of U.S State Legislative Term Limits on Political Representation and Professionalization". *Politique Américaine*, 2023, I (40), pp.51-80. ⟨hal-04160170⟩
-* **[F'24]** Noémie Févrat. *Le "mandat de trop" ? La réélection des parlementaires et des maires en France et les conditions de sa remise en cause*. PHD Thesis, Avignon Université, 2024. ⟨tel-04550896⟩
+* **[F'23]** Noémie Févrat. "The Effects of U.S State Legislative Term Limits on Political Representation and Professionalization". *Politique Américaine*, 2023, I (40), pp.51-80. ⟨[hal-04160170](https://hal.science/hal-04160170)⟩
+* **[F'24]** Noémie Févrat. *Le "mandat de trop" ? La réélection des parlementaires et des maires en France et les conditions de sa remise en cause*. PHD Thesis, Avignon Université, 2024. ⟨[tel-04550896](https://hal.science/tel-04550896)⟩
