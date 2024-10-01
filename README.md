@@ -32,7 +32,7 @@ Here are the folders composing the project:
 # Installation
 1. Install the [`R` language](https://www.r-project.org/)
 2. Download this project from GitHub and unzip the archive.
-3. Use the `install.R` script to install the required packages.
+3. Use the `src/install.R` script to install the required packages.
 
 
 # Use
